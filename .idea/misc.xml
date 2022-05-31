@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.105" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.105" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/drawable/ic_launcher_background.xml" value="0.105" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/drawable/ic_location.xml" value="0.105" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/drawable/navi_menu.xml" value="0.1305" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/actionbar.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/activity_main.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/appbar.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/contact_setting.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/content_scrolling.xml" value="0.225" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/danger_call.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/drawer_layout.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/filter_search.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/header.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/map_view.xml" value="0.25" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/navi_menu.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/personal_information.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/search_bar.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/search_view_layout.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/search_view_suggestion_row.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/layout/toolbar_search_view.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/menu/menu_list.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/menu/menu_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/menu/nav_items.xml" value="0.1" />
+        <entry key="..\:/Users/lilyd/StudioProjects/toilet_seoul/app/src/main/res/xml/network_security_config.xml" value="0.1332518337408313" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
